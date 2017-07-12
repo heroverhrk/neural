@@ -1,0 +1,10 @@
+#include <iostream>
+#include <cmath>
+#include <cassert>
+#include <fstream>
+#include <string>
+#include <stdio.h>
+#include <stdlib.h>
+#include <vector>
+#include <algorithm>
+#include "../Eigen/Dense"
